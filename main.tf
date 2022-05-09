@@ -5,7 +5,7 @@ resource "google_firebase_project" "default" {
 resource "google_firebase_project_location" "default" {
   provider = google-beta
 
-  location_id = var.location
+  location_id = var.region
 
   depends_on = [
     google_firebase_project.default,
