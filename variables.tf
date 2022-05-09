@@ -3,6 +3,10 @@ variable "region" {
   default = "europe-west3"
 }
 
+variable "zone" {
+  type    = string
+  default = "europe-west3-a"
+}
 
 variable "project_name" {
   type    = string
