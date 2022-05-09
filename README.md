@@ -1,2 +1,1 @@
-# tripstagger-firebase-infrastructure
-Terraform configuration for google firebase infrastructure
+1. Firebase Authentication
