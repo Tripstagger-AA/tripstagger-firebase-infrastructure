@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### 0.1.1 (2022-05-10)
+
+
+### Features
+
+* **Authentication:** Initial firebase project ([e7e0b5a](https://github.com/Tripstagger-AA/tripstagger-firebase-infrastructure/commit/e7e0b5aea84e62a3ffa6aa8bee701077a09991a7))
+
 ### [0.2.1](https://github.com/Tripstagger-AA/tripstagger-google-infrastructure/compare/v0.2.0...v0.2.1) (2022-04-24)
 
 
